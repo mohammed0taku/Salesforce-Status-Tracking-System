@@ -1,0 +1,8 @@
+{
+    "backendUrl": "YOUR_GOOGLE_APPS_SCRIPT_URL_HERE",
+    "debug": true,
+    "refreshInterval": 5000,
+    "maxHistoryEntries": 100,
+    "statusCheckInterval": 2000,
+    "keepAliveInterval": 30000
+  }
