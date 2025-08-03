@@ -1,4 +1,3 @@
-`
 // Background service worker for Salesforce Status Monitor
 const DEBUG = true;
 
@@ -124,4 +123,3 @@ async function handleAuthentication(credentials, sendResponse) {
         sendResponse({ success: false, message: 'Network error' });
     }
 }
-`
