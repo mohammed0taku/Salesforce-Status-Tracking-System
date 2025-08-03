@@ -76,7 +76,7 @@ Automatically detects and categorizes these Salesforce statuses:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/salesforce-status-monitor.git
+git clone https://github.com/mohammed0taku/Salesforce-Status-Tracking-System.git
 cd salesforce-status-monitor
 
 # Or download and extract the ZIP file
@@ -323,7 +323,7 @@ const STATUS_MAPPING = {
 
 ```bash
 # Fork the repository
-git fork https://github.com/your-org/salesforce-status-monitor
+git fork https://github.com/mohammed0taku/Salesforce-Status-Tracking-System
 
 # Create feature branch
 git checkout -b feature/new-status-detection
