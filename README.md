@@ -346,7 +346,7 @@ git commit -m "feat: add new status detection for XYZ"
 
 <div align="center">
 
-**Built with ❤️ for the Talabat Support Team**
+**Built with ❤️**
 
 [⬆️ Back to Top](#-salesforce-status-monitor-chrome-extension)
 
